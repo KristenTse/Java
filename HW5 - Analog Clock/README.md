@@ -8,4 +8,4 @@ On a good analog clock, at 6:30 PM, the hour and minute hand would NOT line up b
 You can make your program default to a 400 by 400 size screen, but, ultimately, the user can change the size of the screen by resizing (dragging) it.
 
 # Demo
-![HW5 Demo](https://github.com/KristenTse/Java/tree/main/HW5%20-%20Analog%20Clock/Demo5.gif)
+![HW5 Demo](https://github.com/KristenTse/Java/blob/main/HW5%20-%20Analog%20Clock/Demo5.gif)
